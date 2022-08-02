@@ -1,0 +1,18 @@
+<div class="">
+						<h1 class="is-size-6  has-text-weight-semibold">defination:</h1>
+						<div class="-defination- pt-2 pb-2">
+							
+						</div>
+					</div>
+				    <div class="">
+						<h1 class="is-size-6  has-text-weight-semibold">defination:</h1>
+						<div class="-defination- pt-2 pb-2">
+						    ${()}
+						</div>
+					</div>
+						<!--<p class="is-size-6 px-4  has-text-weight-light">example</p> -->
+					<div class="">
+						<h1 class="is-size-6  has-text-weight-semibold">example:</h1>
+					    <div class="-defination- pt-2 pb-2">
+						</div>
+					</div>
